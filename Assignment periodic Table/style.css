@@ -6,10 +6,13 @@ td{
     font-size: 10px;
     
 }
-
-#tb{
-    background-color:#000000;
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+            
 }
+
 #tb{
     background-color: #000000;
 }
@@ -43,7 +46,6 @@ td{
 .gray{
     background-color: #cbcbcb;
 }
-body
-.hide{
-    visibility: hidden;
+body{
+    background-color: #000000;
 }
